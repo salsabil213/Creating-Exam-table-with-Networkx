@@ -56,6 +56,7 @@ This ensures an efficient and conflict-free exam timetable.
 
 ## 📂 Data Source
 The dataset used in this project is sourced from **Buraydah Private College** in Saudi Arabia. The data includes exam details, constraints, and other relevant information.
+
 ---
 
 Feel free to contribute to this repository or suggest improvements! 😊
